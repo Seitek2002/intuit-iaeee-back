@@ -1,0 +1,50 @@
+{
+  "main": {
+    "header": [
+      {
+        "text": "ГЛАВНАЯ",
+        "href": "./index.html"
+      },
+      {
+        "text": "ГАЛЕРЕЯ",
+        "href": "./gallery.html"
+      },
+      {
+        "text": "ПРОЕКТЫ",
+        "href": "./projects.html"
+      },
+      {
+        "text": "СЕРТИФИКАТЫ",
+        "href": "./certificates.html"
+      },
+      {
+        "text": "КОНТАКТЫ",
+        "href": "./contacts.html"
+      }
+    ],
+    "slider": [
+      {
+        "imgUrl": "https://images.unsplash.com/photo-1470075801209-17f9ec0cada6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "slideName": "Light trails"
+      },
+      {
+        "imgUrl": "https://images.unsplash.com/photo-1534237710431-e2fc698436d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "slideName": "Duplex"
+      },
+      {
+        "imgUrl": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=410&q=80",
+        "slideName": "Nurtown"
+      }
+    ],
+    "about": {
+      "aboutTitle": "О компании",
+      "aboutDescr": "TiDzo Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "aboutLink": "#"
+    },
+    "task": {
+      "tasksTitle": "Основные задачи",
+      "tasksFirst": "Создание комфортных условий и повышение качества обслуживания клиентов",
+      "tasksSecond": "Постоянно совершенствовать качество предоставляемых услуг путем обучения персонала, закупки нового оборудования и усиленной рекламы на рынке"
+    }
+  }
+}
