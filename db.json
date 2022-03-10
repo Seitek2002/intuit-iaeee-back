@@ -58,5 +58,39 @@
       "phone": "+7 (701) 77 76 811",
       "email": "Galym.sultanov@mail.ru"
     }
+  },
+  "projects": {
+    "projectsRow": [
+      {
+        "imgUrl": "./images/ourprojects/ourproject-1.png",
+        "title": "Общеобразовательная школа",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "imgUrl": "./images/ourprojects/ourproject-1.png",
+        "title": "Общеобразовательная школа",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "imgUrl": "./images/ourprojects/ourproject-2.png",
+        "title": "Паркинг на 500 автомобилей",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "imgUrl": "./images/ourprojects/ourproject-3.png",
+        "title": "Проект интерьера офиса",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "imgUrl": "./images/ourprojects/ourproject-4.png",
+        "title": "Общеобразовательная школа",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "imgUrl": "./images/ourprojects/ourproject-5.png",
+        "title": "Общеобразовательная школа",
+        "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      }
+    ]
   }
 }
